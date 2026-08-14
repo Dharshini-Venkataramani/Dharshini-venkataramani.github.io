@@ -20,7 +20,7 @@
 ## 📌 Featured Projects
 - 🤖 [AI Resume Analyzer](https://github.com/Dharshini-Venkataramani/resume_fit_analyzer) — Dual-mode RAG app (LangChain, Chroma) for resume-JD fit matching and rubric-based critique, with a tool-calling agent extension. Documented and fixed 3 real LLM scoring reliability issues.
 - 🧠 [Conversational Intent Classifier](https://github.com/Dharshini-Venkataramani/intent_classifier_pytorch) — PyTorch intent classifier with MLflow experiment tracking (6 runs, 85.7% accuracy), deployed via FastAPI + Docker, with a Streamlit UI.
-- 🚲 Citi Bike NYC: Cost-Sensitive Demand Prediction — LightGBM (Optuna-tuned) model achieving 36.8% operational cost reduction across 578 hours of live-style evaluation, on an Airflow/Spark/Iceberg pipeline.
+- 🚲 Citi Bike NYC: Cost-Sensitive Demand Prediction — LightGBM (Optuna-tuned) model achieving 36.8% operational cost reduction across 720 hours of live-style evaluation, on an Airflow/Spark/Iceberg pipeline.
 - 🤖 Agentic AI Research Assistant — Multi-agent RAG system built on IBM watsonx | 3rd place, IBM SkillsBuild AI Hackathon
 - ✈️ [Airline Passenger Satisfaction Prediction](https://github.com/Dharshini-Venkataramani/airline_passenger_satisfaction) — Multi-model classification (XGBoost, LightGBM) with F1 ~0.95, plus chi-square/t-test hypothesis testing
 
