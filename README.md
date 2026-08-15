@@ -13,7 +13,7 @@
 **Languages:** Python, SQL, R, Scala, Java  
 **GenAI & LLM:** LangChain, RAG, Vector Databases (Chroma), Prompt Engineering, Agentic AI, IBM watsonx Orchestrate, Semantic Search  
 **Machine Learning:** PyTorch, Scikit-learn, LightGBM, Optuna, Cost-Sensitive Modeling, NLU  
-**MLOps & Data Engineering:** MLflow, Apache Airflow, Apache Spark (PySpark), Apache Iceberg, Docker, FastAPI, AWS (EC2, S3, IAM) 
+**MLOps & Data Engineering:** MLflow, Apache Airflow, Apache Spark (PySpark), Apache Iceberg, Docker, FastAPI, AWS (EC2, S3, IAM)
 **Cloud & Data Platforms:** Google Cloud Platform (Dialogflow, BigQuery, Looker Studio, Pub/Sub), DagsHub  
 **Dev & Monitoring:** Git, Jenkins CI/CD, Streamlit, Grafana, Splunk, Jira
 
